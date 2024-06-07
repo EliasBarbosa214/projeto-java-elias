@@ -1,0 +1,5 @@
+com\example\controller\LivroController.class
+com\example\repository\LivroRepository.class
+com\example\model\Livro.class
+com\example\MeuAplicativo.class
+com\example\service\LivroService.class
